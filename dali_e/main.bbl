@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{radford2019language}
+Alec Radford, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, Ilya
+  Sutskever, et~al.
+\newblock Language models are unsupervised multitask learners.
+\newblock {\em OpenAI blog}, 1(8):9, 2019.
+
+\bibitem{ramesh2021zero}
+Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec
+  Radford, Mark Chen, and Ilya Sutskever.
+\newblock Zero-shot text-to-image generation.
+\newblock In {\em International Conference on Machine Learning}, pages
+  8821--8831. PMLR, 2021.
+
+\bibitem{razavi2019generating}
+Ali Razavi, Aaron Van~den Oord, and Oriol Vinyals.
+\newblock Generating diverse high-fidelity images with vq-vae-2.
+\newblock {\em Advances in neural information processing systems}, 32, 2019.
+
+\bibitem{sennrich2015neural}
+Rico Sennrich, Barry Haddow, and Alexandra Birch.
+\newblock Neural machine translation of rare words with subword units.
+\newblock {\em arXiv preprint arXiv:1508.07909}, 2015.
+
+\bibitem{van2017neural}
+Aaron Van Den~Oord, Oriol Vinyals, et~al.
+\newblock Neural discrete representation learning.
+\newblock {\em Advances in neural information processing systems}, 30, 2017.
+
+\end{thebibliography}
